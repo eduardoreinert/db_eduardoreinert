@@ -1,0 +1,1 @@
+select primeiro_nome, data_admissao from colaborador_tarde order by primeiro_nome;
