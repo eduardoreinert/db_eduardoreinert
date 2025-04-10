@@ -1,0 +1,1 @@
+select sum(salario) as 'Total do salario do departamento' from colaborador_tarde where nr_depto = 120;
